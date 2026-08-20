@@ -1,3 +1,6 @@
 target/
 .idea/
 *.iml
+app-log.txt
+application.log
+trace-log.txt
